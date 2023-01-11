@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>IMAGINEXP</title>
+     <style>
+     type="text/css">
+    img{
+        width: 100px;
+        height:100px;
+       }
+       h1{
+           color: green;
+           text-align: center;
+           border: 8px double black;
+       }
+       body{
+           background-image: url("
+           iStock_71952335_LARGE-768x512.jpg");
+           background-size: cover;
+            background-color: grey;
+       }
+</style>
+</head>
+<body>
+<h1 class="vinay">BBA DM</h1>
+<h2>DIGITAL MARKETING</h2>
+<h3>INTRODUCTION TO WEB DESIGN</h3>
+<a href="
+<p>BBA in Digital Marketing is a 3-year
+undergraduate program, involving essentially,
+an advanced study of the techniques used in
+the marketing of products or services using <u>
+digital techniques</u></p>
+<ol>
+       <li>Structure</li>
+       <li>Style</li>
+       <li>Functionality</li>
+</ol>
+<ul>
+       <li>Hypertext Markup Language</li>
+       <li>Cascading Style Sheet</li>
+       <li>Java Script</li>
+</ul>
+</html>       
